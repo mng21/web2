@@ -71,6 +71,7 @@ footer {
 ul{
     list-style: none;
     font-size: 0;
+    color: #09720f;
     
 }
 
@@ -95,13 +96,9 @@ ul ul li{
     
 }
 
-/*.ejemplo li:hover{
-    color: #f3044c;
-}*/
-
 ul li:hover ul {
     display: block;
-    color: #3f0cf8;
+    color: blue;
     
 }
 
